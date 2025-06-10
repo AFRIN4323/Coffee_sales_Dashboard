@@ -29,3 +29,4 @@ I have noticed that the bottom products for all the stores include some flavours
 
 ## Dashboard :
 <img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+
