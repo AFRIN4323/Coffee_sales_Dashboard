@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)]((https://t3.ftcdn.net/jpg/03/15/40/34/360_F_315403482_MVo1gSOOfvwCwhLZ9hfVSB4MZuQilNrx.jpg))
+![Coffee Background Banner (4)]((https://thumbs.dreamstime.com/b/coffee-cup-cafe-latte-beans-32206081.jpg))
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
